@@ -15,7 +15,6 @@
 
 - 🌱 I’m currently learning **Python**, **C#**, and **Java**
 - 💡 Interested in game modding, automation, and Unity projects
-- 🔭 Exploring tools like IL2CPP, Unity, and metadata editing
 
 ---
 
