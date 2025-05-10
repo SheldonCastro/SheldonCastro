@@ -17,7 +17,6 @@
 
 - 🌱 Currently learning **Python**, **C#**, and **Java**
 - 🎮 Enthusiastic about **game modding**, **automation**, and **Unity development**
-- 🛠️ Exploring tools like **IL2CPP**, **UABEA**, and **metadata editors**
 
 ---
 
