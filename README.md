@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAC/keyboard-hanamaru-kindergarten.gif" width="300"/>
   <h1 align="center">Hey there! I'm Sheldon Castro</h1>
-  <h3 align="center">Software Developer | Automation & Game Dev Enthusiast | Brazil 🇧🇷</h3>
+  <h3 align="center">Aspiring Developer | Automation & Game Dev Enthusiast | Brazil 🇧🇷</h3>
   <p align="center">
-    </a>
     <a href="https://discordapp.com/users/517767032440356884" target="_blank">
       <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
@@ -14,13 +13,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a developer passionate about turning ideas into reality through code. I'm currently deepening my knowledge in **C#**, **Python**, and **Java**, with a special focus on creating **game mods**, developing with the **Unity** engine, and building **automation scripts**.
+I'm an aspiring developer, passionate about turning ideas into reality through code. I am currently learning and building my skills in **C#**, **Python**, and **Java**, with a special focus on creating **game mods** and developing with the **Unity** engine.
 
 My goal is to build creative and efficient solutions that solve problems and provide amazing user experiences.
 
 - 🌱 Exploring the universe of game development and artificial intelligence.
 - 🚀 Always looking to learn new technologies and improve my skills.
-- 🎮 In my spare time, I love diving into modding and automation projects.
+- 🎮 In my spare time, I love diving into modding projects.
 
 ---
 
