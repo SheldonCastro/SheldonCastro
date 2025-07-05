@@ -3,10 +3,8 @@
   <h1 align="center">Hey there! I'm Sheldon Castro</h1>
   <h3 align="center">Software Developer | Automation & Game Dev Enthusiast | Brazil 🇧🇷</h3>
   <p align="center">
-    <a href="https://linkedin.com/in/shelugon" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://discord.gg/xeshel" target="_blank">
+    <a href="https://discordapp.com/users/517767032440356884" target="_blank">
       <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </p>
