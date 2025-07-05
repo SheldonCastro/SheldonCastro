@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAC/keyboard-hanamaru-kindergarten.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAC/keyboard-hanamaru-kindergarten.gif" width="300"/>
   <h1 align="center">Hey there! I'm Sheldon Castro</h1>
   <h3 align="center">Software Developer | Automation & Game Dev Enthusiast | Brazil 🇧🇷</h3>
   <p align="center">
